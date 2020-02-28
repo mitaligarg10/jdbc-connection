@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d4d8a3-2327-4db2-8b8e-ed36e230a4ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNaTny8uZ7iAJgt20c2oWS8Zud" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JdbcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.JdbcDemo" />
+      <module name="jdbc-demo-source-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JdbcDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d4d8a3-2327-4db2-8b8e-ed36e230a4ef" name="Default Changelist" comment="" />
+      <created>1582785515411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582785515411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="848" height="677" key="#Project_Structure" timestamp="1582864683027">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="848" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1582864683027" />
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582787197099">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582787197099" />
+    <state x="468" y="27" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582785970905">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="468" y="27" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1582785970905" />
+    <state x="362" y="140" width="735" height="513" key="FileChooserDialogImpl" timestamp="1582863145958">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="362" y="140" width="735" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582863145958" />
+    <state width="1253" height="81" key="GridCell.Tab.0.bottom" timestamp="1582871780292">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="81" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582871780292" />
+    <state width="1253" height="81" key="GridCell.Tab.0.center" timestamp="1582871780292">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="81" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582871780292" />
+    <state width="1253" height="81" key="GridCell.Tab.0.left" timestamp="1582871780292">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="81" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582871780292" />
+    <state width="1253" height="81" key="GridCell.Tab.0.right" timestamp="1582871780292">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="81" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582871780292" />
+    <state width="1253" height="52" key="GridCell.Tab.1.bottom" timestamp="1582864507622">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="52" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582864507622" />
+    <state width="1253" height="52" key="GridCell.Tab.1.center" timestamp="1582864507622">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="52" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1582864507622" />
+    <state width="1253" height="52" key="GridCell.Tab.1.left" timestamp="1582864507622">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="52" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1582864507622" />
+    <state width="1253" height="52" key="GridCell.Tab.1.right" timestamp="1582864507622">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="52" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1582864507622" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1582867679755">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1582867679755" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582787091555">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582787091555" />
+    <state x="67" y="42" width="1289" height="708" key="new project wizard" timestamp="1582871085753">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="42" width="1289" height="708" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1582871085753" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1582861822572">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1582861822572" />
+    <state x="379" y="89" key="search.everywhere.popup" timestamp="1582864936877">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1582864936877" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jdbc_demo_source_code$JdbcDemo.ic" NAME="JdbcDemo Coverage Results" MODIFIED="1582803308410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.*</FILTER>
+    </SUITE>
+  </component>
+</project>
